@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCP_EEPROM_test", "MCP_EEPROM_test.csproj", "{B82B6FF6-139B-4BE1-AFC8-67968AEABBC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVW.MCP.MCP25AA1024", "..\DVW.MCP.MCP25AA1024.csproj", "{183B81CD-50F2-410E-92AC-02CE354CAB88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B82B6FF6-139B-4BE1-AFC8-67968AEABBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82B6FF6-139B-4BE1-AFC8-67968AEABBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82B6FF6-139B-4BE1-AFC8-67968AEABBC2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B82B6FF6-139B-4BE1-AFC8-67968AEABBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82B6FF6-139B-4BE1-AFC8-67968AEABBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82B6FF6-139B-4BE1-AFC8-67968AEABBC2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{183B81CD-50F2-410E-92AC-02CE354CAB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183B81CD-50F2-410E-92AC-02CE354CAB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183B81CD-50F2-410E-92AC-02CE354CAB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183B81CD-50F2-410E-92AC-02CE354CAB88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
